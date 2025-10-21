@@ -31,8 +31,8 @@ Outside of tech, I'm a *mini artist ✏* who loves *pencil sketching* and *liste
 ---
 
 ## 📫 Connect with Me
-💼 [LinkedIn](#) 🌐 [Portfolio / GitHub Pages](#) 🎥 [YouTube](#)
-    [Instagram](https://www.instagram.com/arduino__tech?igsh=MTk3bDN3MThsZnh1cA==)
+💼 [LinkedIn](#) 🌐 [Portfolio / GitHub Pages](https://github.com/DhanushgowdaS) 🎥 [YouTube](http://www.youtube.com/@Arduinotech-e)
+    🎯[Instagram](https://www.instagram.com/arduino__tech?igsh=MTk3bDN3MThsZnh1cA==)
 ---
 
 ## ✨ Quote I Live By
