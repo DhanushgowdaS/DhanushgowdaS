@@ -32,7 +32,7 @@ Outside of tech, I'm a *mini artist ✏* who loves *pencil sketching* and *liste
 
 ## 📫 Connect with Me
 💼 [LinkedIn](#) 🌐 [Portfolio / GitHub Pages](#) 🎥 [YouTube](#)
-[Instagram](#)
+    [Instagram](#)
 ---
 
 ## ✨ Quote I Live By
