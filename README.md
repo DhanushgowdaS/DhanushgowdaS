@@ -32,7 +32,7 @@ Outside of tech, I'm a *mini artist ✏* who loves *pencil sketching* and *liste
 
 ## 📫 Connect with Me
 💼 [LinkedIn](#) 🌐 [Portfolio / GitHub Pages](#) 🎥 [YouTube](#)
-    [Instagram](#)
+    [Instagram](https://www.instagram.com/arduino__tech?igsh=MTk3bDN3MThsZnh1cA==)
 ---
 
 ## ✨ Quote I Live By
