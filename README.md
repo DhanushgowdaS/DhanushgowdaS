@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 I'm a *student and developer* passionate about *IoT, Robotics, and Embedded Systems*.  
-I enjoy experimenting with *Arduino, ESP32, Raspberry pi and various sensors* to create smart automation projects that connect the physical and digital worlds.
+I enjoy experimenting with *Arduino, ESP32, Raspberry pi ,STM32 and various sensors* to create smart automation projects that connect the physical and digital worlds.
 
 Outside of tech, I'm a *mini artist ✏* who loves *pencil sketching* and *listening to music 🎧* — creativity keeps my ideas alive!
 
