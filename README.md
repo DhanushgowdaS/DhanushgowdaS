@@ -35,7 +35,7 @@ Tools: Arduino IDE • STM32CubeIDE • VS Code • GitHub • Proteus • Tinke
 
 - 📜 [AICTE IDE Bootcamp 2026](https://github.com/DhanushgowdaS/Professional-Certifications/blob/main/AICTE_IDE_Bootcamp_2026.pdf)
 - 📜 [Wadhwani Ignite Bootcamp 2026](https://github.com/DhanushgowdaS/Professional-Certifications/blob/main/Wadhwani_Ignite_Bootcamp_2026.pdf)
-- 📜 [Python Fundamentals – Great Learning 2026](https://github.com/DhanushgowdaS/Professional-Certifications/blob/main/Python_Fundamentals_GreatLearning_2026.pdf)-
+- 📜 [Python Fundamentals – Great Learning 2026](https://github.com/DhanushgowdaS/Professional-Certifications/blob/main/Python_Fundamentals_GreatLearning_2026.pdf)
 
 ---
 
