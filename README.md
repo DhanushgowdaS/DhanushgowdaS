@@ -33,7 +33,7 @@ Tools: Arduino IDE • STM32CubeIDE • VS Code • GitHub • Proteus • Tinke
 ---
 
 ## 📫 Connect with Me
-💼 [LinkedIn](#) 🌐 [Portfolio / GitHub Pages](https://github.com/DhanushgowdaS) 🎥 [YouTube](http://www.youtube.com/@Arduinotech-e)
+💼 [LinkedIn](https://www.linkedin.com/in/dhanush-s-b82a4a402/?skipRedirect=true) 🌐 [Portfolio / GitHub Pages](https://github.com/DhanushgowdaS) 🎥 [YouTube](http://www.youtube.com/@Arduinotech-e)
     🎯[Instagram](https://www.instagram.com/arduino__tech?igsh=MTk3bDN3MThsZnh1cA==)
 ---
 
