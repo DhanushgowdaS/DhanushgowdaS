@@ -19,9 +19,9 @@ Outside of tech, I'm a *mini artist ✏* who loves *pencil sketching* and *liste
 ## 🧰 Tech Stack
 📚 Tech Stack
 
-*Languages:* C / C++ / Python
-*Embedded Platforms:* Arduino • ESP32 • STM32 • Raspberry Pi
-*Tools:* Arduino IDE • STM32CubeIDE • VS Code • GitHub • Proteus • Tinkercad
+Languages: C / C++ / Python
+Embedded Platforms: Arduino • ESP32 • STM32 • Raspberry Pi
+Tools: Arduino IDE • STM32CubeIDE • VS Code • GitHub • Proteus • Tinkercad
 
 ---
 
