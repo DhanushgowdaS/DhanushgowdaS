@@ -17,9 +17,11 @@ Outside of tech, I'm a *mini artist ✏* who loves *pencil sketching* and *liste
 ---
 
 ## 🧰 Tech Stack
-*Languages:* C / C++ / Python  
-*Hardware:* Arduino · ESP32 · Raspberry Pi . STM32 
-*Tools:* Proteus · TinkerCAD · VS Code · GitHub · Arduino IDE
+📚 Tech Stack
+
+*Languages:* C / C++ / Python
+*Embedded Platforms:* Arduino • ESP32 • STM32 • Raspberry Pi
+*Tools:* Arduino IDE • STM32CubeIDE • VS Code • GitHub • Proteus • Tinkercad
 
 ---
 
