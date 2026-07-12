@@ -15,6 +15,10 @@ Passionate about designing intelligent embedded systems that solve real-world pr
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/Dhanush S/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://instagram.com/arduino__tech">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
