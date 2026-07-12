@@ -15,7 +15,7 @@ Passionate about designing intelligent embedded systems that solve real-world pr
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Dhanush S/">
+<a href="https://www.linkedin.com/in/dhanush-s-65167833b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
