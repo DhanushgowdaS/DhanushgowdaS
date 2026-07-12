@@ -119,6 +119,12 @@ Educational platform where I share
 
 ---
 
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=DhanushgowdaS&theme=dark&hide_border=false&include_all_commits=true)
@@ -151,11 +157,6 @@ Educational platform where I share
 </a>
 </p>
 
----
-
-<div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
