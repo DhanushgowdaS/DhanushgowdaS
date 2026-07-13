@@ -30,7 +30,7 @@ Passionate about designing intelligent embedded systems that solve real-world pr
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm an Electronics & Communication Engineering student with a strong passion for **Embedded Systems, IoT, Robotics, Computer Vision, and Edge AI**.
 
@@ -40,9 +40,9 @@ Currently, I'm focused on building industry-level projects that bridge embedded 
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
-## 🌾 AGRIBOT
+##  AGRIBOT
 **AI-powered Smart Agriculture Robot**
 
 - Plant disease detection using Computer Vision
@@ -53,7 +53,7 @@ Currently, I'm focused on building industry-level projects that bridge embedded 
 
 ---
 
-## 👟 Smart Footwear
+##  Smart Footwear
 
 **Early Detection of Foot & Leg Ulcers**
 
@@ -65,7 +65,7 @@ Currently, I'm focused on building industry-level projects that bridge embedded 
 
 ---
 
-## 📱 ArduinoTech
+##  ArduinoTech
 
 Educational platform where I share
 
@@ -78,7 +78,7 @@ Educational platform where I share
 
 ---
 
-# 💻 Technical Skills
+#  Technical Skills
 
 ### Programming Languages
 
@@ -108,7 +108,7 @@ Educational platform where I share
 
 ---
 
-# 🎯 Currently Learning
+#  Currently Learning
 
 - Embedded C
 - RTOS Fundamentals
@@ -125,7 +125,7 @@ Educational platform where I share
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=DhanushgowdaS&theme=dark&hide_border=false&include_all_commits=true)
 
@@ -135,13 +135,13 @@ Educational platform where I share
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=DhanushgowdaS&theme=radical&no-frame=true&no-bg=true)
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
 <a href="mailto:dhanushgowdas222@gmail.com">
